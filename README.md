@@ -1,4 +1,4 @@
-# katas for practice
+# Katas for practice
 
 This is a collection of katas that I am creating to practice various programming languages.
 
@@ -8,7 +8,9 @@ This is a collection of katas that I am creating to practice various programming
 
 ## Current languages
 
-- [x] JavaScript (view issues: #1)
+- [x] JavaScript
+  - [x] [js-01-passengers](https://github.com/darellanodev/katas-for-practice/tree/main/js/01-passengers) (issue #1)
+- [x] PHP
+  - [x] [php-01-passengers](https://github.com/darellanodev/katas-for-practice/tree/main/php/01-passengers) (issue #2)
 - [x] TypeScript (to-do)
 - [x] Go (to-do)
-- [x] PHP (to-do)
