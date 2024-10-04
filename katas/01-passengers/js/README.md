@@ -1,4 +1,4 @@
-# Kata js/01-passengers
+# JavaScript
 
 ![kata-1-title-trains-passengers](https://github.com/darellanodev/katas-for-practice/blob/main/katas/01-passengers/img/title.png?raw=true)
 
