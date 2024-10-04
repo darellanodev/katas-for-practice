@@ -8,7 +8,7 @@ This is a collection of katas that I am creating to practice various programming
 
 ## Current katas
 
-![kata-1-title-trains-passengers](https://github.com/darellanodev/katas-for-practice/blob/main/img/title_kata1.png?raw=true)
+![kata-1-title-trains-passengers](https://github.com/darellanodev/katas-for-practice/blob/main/katas/01-passengers/img/title.png?raw=true)
 
-- [js-01-passengers](https://github.com/darellanodev/katas-for-practice/tree/main/js/01-passengers) (issue #1)
-- [php-01-passengers](https://github.com/darellanodev/katas-for-practice/tree/main/php/01-passengers) (issue #2)
+- [Javascript](https://github.com/darellanodev/katas-for-practice/tree/main/katas/01-passengers/js)
+- [php](https://github.com/darellanodev/katas-for-practice/tree/main/katas/01-passengers/php)
