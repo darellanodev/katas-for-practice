@@ -2,13 +2,16 @@ package main
 
 import "fmt"
 
+const UP int = 0
+const DOWN int = 1
+
 func countPassengersAtLastStation(data [][]int) int {
 
 	upPassengers := 0
 	downPassengers := 0
 	for _, station := range data {
-		upPassengers += station[0]
-		downPassengers += station[1]
+		upPassengers += station[UP]
+		downPassengers += station[DOWN]
 	}
 	return upPassengers - downPassengers
 }
