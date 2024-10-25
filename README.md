@@ -1,3 +1,7 @@
+# What is a kata
+
+A kata is a set sequence of movements used in martial arts training, like karate. It helps practitioners practice and perfect specific techniques through repetition. Each kata simulates a combat scenario, allowing students to improve their skills and muscle memory. The concept has also been adopted in other fields, such as programming, to encourage structured practice and learning.
+
 # Katas for practice
 
 This is a collection of katas that I am creating to practice various programming languages.
