@@ -2,6 +2,12 @@
 
 This is a collection of katas that I am creating to practice various programming languages.
 
+Currently, I'm doing Katas on the Codewars website for practice.
+
+[![Codewars](https://www.codewars.com/users/darellanodev/badges/micro)](https://www.codewars.com/users/darellanodev)
+
+I might upload some of these Katas to the Codewars community.
+
 ## Github repo
 
 - <https://github.com/darellanodev/katas-for-practice>
