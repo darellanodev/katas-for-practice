@@ -18,6 +18,8 @@ I might upload some of these Katas to the Codewars community.
 
 ## Current katas
 
+Next, you will find some Katas. Click on the programming language badges below each kata image to access the specific kata solved in that language.
+
 ![kata-1-title-trains-passengers](https://github.com/darellanodev/katas-for-practice/blob/main/katas/01-passengers/img/title.png?raw=true)
 
 [![PHP](https://img.shields.io/badge/PHP-7.4-blue)](https://github.com/darellanodev/katas-for-practice/tree/main/katas/01-passengers/php)
