@@ -12,7 +12,7 @@ Currently, I'm doing Katas on the Codewars website for practice.
 
 I might upload some of these Katas to the Codewars community.
 
-## Github repo
+## Github repository
 
 - <https://github.com/darellanodev/katas-for-practice>
 
