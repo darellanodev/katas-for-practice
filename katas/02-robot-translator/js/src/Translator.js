@@ -7,7 +7,8 @@ class Translator {
             '0': 'o',
             '1': 'i',
         };
-        return robotPhrase.replace(/[30%1]/g, char => replacements[char]);
+        const regex = new RegExp(Object.keys(replacements).join('|'), 'g');
+        return robotPhrase.replace(regex, char => replacements[char]);
     }
 }
 
