@@ -24,3 +24,7 @@ Next, you will find some Katas. Click on the programming language badges below e
 
 [![PHP](https://img.shields.io/badge/PHP-7.4-blue)](https://github.com/darellanodev/katas-for-practice/tree/main/katas/01-passengers/php)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://github.com/darellanodev/katas-for-practice/tree/main/katas/01-passengers/js)
+
+![kata-2-robot-translator](https://github.com/darellanodev/katas-for-practice/blob/main/katas/02-robot-translator/img/title.png?raw=true)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://github.com/darellanodev/katas-for-practice/tree/main/katas/02-robot-translator/js)
