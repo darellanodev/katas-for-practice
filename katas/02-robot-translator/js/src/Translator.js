@@ -1,8 +1,14 @@
 class Translator {
 
     translate(robotPhrase) {
-        return robotPhrase.replaceAll('3', 'e').replaceAll('%', ' ').replaceAll('0', 'o')
+        const replacements = {
+            '3': 'e',
+            '%': ' ',
+            '0': 'o',
+        };
+        return robotPhrase.replace(/[30%]/g, char => replacements[char]);
     }
 }
+
 
 module.exports = Translator;
