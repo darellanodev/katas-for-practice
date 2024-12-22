@@ -5,4 +5,8 @@ describe("translator", () => {
     const translator = new Translator();
     expect(translator.translate("H3ll0%w0rld")).toBe("Hello world");
   });
+  it("translate the character 1 to i", () => {
+    const translator = new Translator();
+    expect(translator.translate("H1 there!")).toBe("Hi there!");
+  })
 });

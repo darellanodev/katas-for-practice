@@ -5,8 +5,9 @@ class Translator {
             '3': 'e',
             '%': ' ',
             '0': 'o',
+            '1': 'i',
         };
-        return robotPhrase.replace(/[30%]/g, char => replacements[char]);
+        return robotPhrase.replace(/[30%1]/g, char => replacements[char]);
     }
 }
 
