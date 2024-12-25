@@ -14,6 +14,7 @@ module.exports = [
     },
     plugins: {
       prettier: prettierPlugin,
+      jest: require("eslint-plugin-jest"),
     },
     rules: {
       ...prettierConfig.rules,
@@ -25,5 +26,13 @@ module.exports = [
       ],
       "linebreak-style": ["error", "windows"],
     },
+    overrides: [
+      {
+        files: ["**/*.test.js", "**/*.spec.js"],
+        env: {
+          jest: true, 
+        },
+      },
+    ],
   },
 ];
