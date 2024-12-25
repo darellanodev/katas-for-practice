@@ -1,4 +1,4 @@
-const Translator = require('../src/Translator');
+const Translator = require("../src/Translator");
 
 describe("translator", () => {
   it("translate the robot string to human readable format replacing the characters 3, 0 and %", () => {
@@ -8,5 +8,5 @@ describe("translator", () => {
   it("translate the character 1 to i", () => {
     const translator = new Translator();
     expect(translator.translate("H1 there!")).toBe("Hi there!");
-  })
+  });
 });
