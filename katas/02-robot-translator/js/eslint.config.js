@@ -26,13 +26,13 @@ module.exports = [
       ],
       'linebreak-style': ['error', 'windows'],
     },
-    overrides: [
-      {
-        files: ['**/*.test.js', '**/*.spec.js'],
-        env: {
-          jest: true,
-        },
+  },
+  {
+    files: ['**/*.test.js', '**/*.spec.js'],
+    languageOptions: {
+      globals: {
+        ...globals.jest,
       },
-    ],
+    },
   },
 ]
