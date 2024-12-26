@@ -23,6 +23,11 @@ translator.translate('H3ll0%w0rld') // must return 'Hello world'
 
 ### Run the tests
 
-`pnpm test`
-`pnpm test:watch`
-`pnpm test:coverage`
+- `pnpm test`
+- `pnpm test:watch`
+- `pnpm test:coverage`
+
+### Run ESLint and Prettier
+
+- `pnpm run lint` to lint all files
+- `pnpm run format` to apply formatting to all the files
