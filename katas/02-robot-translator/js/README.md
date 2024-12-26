@@ -1,5 +1,7 @@
 # Robot translator (JavaScript)
 
+![kata-2-title-robot-translator](https://github.com/darellanodev/katas-for-practice/blob/main/katas/02-robot-translator/img/title.png?raw=true)
+
 A robot is trying to communicate with you, but its speaking system is broken. You must create a translation system to understand it.
 
 Some letters are changed by numbers:
