@@ -14,7 +14,7 @@ There are other symbols that represent a blank space:
 ## Example
 
 ```js
-translator.translate("H3ll0%w0rld"); // must return 'Hello world'
+translator.translate('H3ll0%w0rld') // must return 'Hello world'
 ```
 
 ## Install
