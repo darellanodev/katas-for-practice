@@ -14,4 +14,3 @@
     "format": "pnpm exec eslint --fix . && pnpm exec prettier --log-level warn --write ."
   }
 }
-
