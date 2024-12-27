@@ -21,3 +21,14 @@ passengersManager.countPassengersAtLastStation(data) // 8 (because 8 = 5 + 7 + 2
 ## Install
 
 `pnpm install`
+
+### Run the tests
+
+- `pnpm test`
+- `pnpm test:watch`
+- `pnpm test:coverage`
+
+### Run ESLint and Prettier
+
+- `pnpm run lint` to lint all files
+- `pnpm run format` to apply formatting to all the files
