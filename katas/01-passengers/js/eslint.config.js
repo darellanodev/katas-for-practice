@@ -35,4 +35,7 @@ module.exports = [
       },
     },
   },
+  {
+    ignores: ['node_modules/', 'pnpm-lock.yaml'],
+  },
 ]
